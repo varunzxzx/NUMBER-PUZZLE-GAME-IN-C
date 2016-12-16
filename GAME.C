@@ -46,7 +46,6 @@ void main()
 	put();
 	gotoxy(34,14);
 	cur_pos();
-	getch();
 }
 int check(int r)
 {
